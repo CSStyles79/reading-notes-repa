@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
 
 body{
-    background-color: #000;  
+    background-color: #000000;
+    ont-color: #ffffff;
     }
 
 img{
@@ -18,5 +19,5 @@ img{
 h2{
     font-family: 'Amatic SC', cursive;
     font-size: 70px;
-    font-color: #FFF;
+    font-color: #ffffff;
     }
