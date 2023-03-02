@@ -1,5 +1,5 @@
 
-![](images/styles.jpeg)
+<img src="images/styles.jpeg" alt="Christian Styles" width="50em" height="50em">
 
 # reading-notes-repo
 
