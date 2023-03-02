@@ -2,7 +2,7 @@
 
 Hello, my name is Christian and this is my reading notes repository for the DeltaV Coding 102 course. You can find my [GitHub](https://github.com/) Profile [HERE](https://github.com/CSStyles79)!
 
-#Table of Content
+## Table of Content
 
 * [Class 01](https://github.com/CSStyles79/reading-notes-repo/blob/main/Read_01.md)
 * [Class 02](https://github.com/CSStyles79/reading-notes-repo/blob/main/Read_02.md)
