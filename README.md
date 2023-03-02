@@ -17,4 +17,4 @@ Hello, my name is Christian and this is my reading notes repository for the Delt
 ## GROWTH MINDSET
 
 
-*demo for setting up and reading notes
+*demo for setting up and reading notes*
