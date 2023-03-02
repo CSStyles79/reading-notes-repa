@@ -1,3 +1,6 @@
+
+[](images/styles.jpeg)
+
 # reading-notes-repo
 
 Hello, my name is Christian and this is my reading notes repository for the DeltaV Coding 102 course. You can find my [GitHub](https://github.com/) Profile [HERE](https://github.com/CSStyles79)!
