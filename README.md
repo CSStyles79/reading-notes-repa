@@ -1,5 +1,5 @@
 
-<img src="images/styles.jpeg" alt="Christian Styles" width="50em" height="50em">
+<img src="images/styles.jpeg" alt="Christian Styles" width="150em" height="150em">
 
 # reading-notes-repo
 
