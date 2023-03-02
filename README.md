@@ -1,7 +1,7 @@
 <img src="images/styles.jpeg" alt="Christian Styles" width="150em" height="150em"> 
 
-# CSStyles79 
-**Christian Styles**
+<font size="4">CSStyles79</font> 
+<font size="1">Christian Styles</font>
 
 # reading-notes-repo
 
