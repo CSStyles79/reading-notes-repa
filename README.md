@@ -1,7 +1,7 @@
-
 <img src="images/styles.jpeg" alt="Christian Styles" width="150em" height="150em"> 
+
 # CSStyles79 
-### Christian Styles
+## Christian Styles
 
 # reading-notes-repo
 
