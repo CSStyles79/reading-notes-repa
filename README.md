@@ -1,5 +1,5 @@
 
-[] :images/styles.jpeg
+![](images/styles.jpeg)
 
 # reading-notes-repo
 
