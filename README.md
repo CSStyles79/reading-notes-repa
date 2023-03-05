@@ -8,6 +8,7 @@ Hello, my name is Christian and this is my reading notes repository for the Delt
 
 ## Table of Content
 
+## Code 102 Reading Notes
 * [Class 01](https://github.com/CSStyles79/reading-notes-repo/blob/main/Read_01.md)
 * [Class 02](https://github.com/CSStyles79/reading-notes-repo/blob/main/Read_02.md)
 * [Class 03](https://github.com/CSStyles79/reading-notes-repo/blob/main/Read_03.md)
@@ -17,6 +18,22 @@ Hello, my name is Christian and this is my reading notes repository for the Delt
 * [Class 07](https://github.com/CSStyles79/reading-notes-repo/blob/main/Read_07.md)
 * [Class 08](https://github.com/CSStyles79/reading-notes-repo/blob/main/Read_08.md)
 
+## Code 201 Reading Notes
+* [Class 01]()
+* [Class 02]()
+* [Class 03]()
+* [Class 04]()
+* [Class 05]()
+* [Class 06]()
+* [Class 07]()
+* [Class 08]()
+* [Class 09]()
+* [Class 10]()
+* [Class 11]()
+* [Class 12]()
+* [Class 13]()
+* [Class 14]()
+* [Class 15]()
 
 ## GROWTH MINDSET
 
