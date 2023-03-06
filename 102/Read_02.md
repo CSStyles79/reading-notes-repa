@@ -27,17 +27,17 @@ The following pages will give you a step by step introduction to using a termina
 
 1.  What are four important features to look for in a text editor?
 2.  What do the following commands do?
-    1.  `pwd`
-    2.  `ls`
-    3.  `cd`
-    4.  `mkdir`
-    5.  `touch`
+    1.  `pwd` - print working directory
+    2.  `ls` - list
+    3.  `cd` - change directory
+    4.  `mkdir` - make directory
+    5.  `touch` - creates a file
 3.  Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
-    1.  `cd projects`
-    2.  `mkdir new-project`
-    3.  `touch new-project/newfile.md`
-    4.  `cd ..`
-    5.  `ls projects/new-project`
+    1.  `cd projects` - change directory to /projects
+    2.  `mkdir new-project` - make directory new-project
+    3.  `touch new-project/newfile.md` - create a new file named newfile.md in the new-project
+    4.  `cd ..` - change directory to the parent directory
+    5.  `ls projects/new-project` - change directory to the parent directory
 
 ## Submission Instructions
 
