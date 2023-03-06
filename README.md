@@ -35,6 +35,8 @@ Hello, my name is Christian and this is my reading notes repository for the Delt
 * [Class 14](https://github.com/CSStyles79)
 * [Class 15](https://github.com/CSStyles79)
 
+## Things I want to know more about
+
 ## GROWTH MINDSET
 
 
